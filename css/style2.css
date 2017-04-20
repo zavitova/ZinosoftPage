@@ -1,0 +1,191 @@
+.our_works_main_about_works{
+    height: 0;
+    overflow: hidden;
+    padding: 0;
+    margin: 35px 0 0 0;
+    position: relative;
+}
+.our_works_main_about_works.opened{
+    overflow: visible;
+}
+#bx-pagers a img{
+    width: 100px;
+
+}
+#bx-pagers a{
+    float: left;
+}
+.bx-pagers123 a{
+    float: left;
+}
+.bx-pagers123 a img{
+    width: 100px;
+}
+.our_works_main_img_works_part img{
+    width: 100% !important;
+}
+.our_works_main_img_works_part{
+    position: relative;
+}
+.hidden-block{
+    padding: 80px 25px 20px 25px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    display: none;
+    width: 308px;
+    height: 215px;
+    z-index: 2;
+    background: rgba(0,0,0,0.5);
+    box-sizing: border-box;
+}
+.our_works_main_img_works_part:hover .hidden-block{
+    display: block;
+}
+.hidden-block h2{
+    font-size: 18px;
+    color: #fff;
+}
+.hidden-block p{
+    color: #fff;
+    font-size: 14px;
+}
+.our_works_main_img_works{
+    left: 0;
+}
+.our_works_main_img_works .our_works_main_img_works_part{
+    padding: 0 !important;
+    width: 308px !important;
+    height: 215px !important;
+}
+.our_works_main_about_works .bx-pagers123{
+    left: 0;
+    width: 260px;
+    margin: 0 auto;
+    top: 0;
+}
+.title-pager{
+    width: 240px;
+    margin: 15px auto;
+    font-size: 14px;
+    color: #111111;
+    text-transform: uppercase;
+    font-family: Trebuchet MS;
+    font-weight: bold;
+}
+.title-pager span{
+    width: 120px;
+    text-align: center;
+    display: inline-block;
+    float: left;
+}
+.our_works_main_about_works .bx-pagers123:after{
+    clear: both;
+    display: block;
+    content: "";
+}
+.our_works_main_about_works .bx-pagers123 a{
+    display: none !important;
+}
+.our_works_main_about_works .bx-pagers123 .prevSlide{
+    display: block !important;
+    float: left;
+}
+.our_works_main_about_works .bx-pagers123 .nextSlide{
+    display: block !important;
+    float: right;
+}
+.our_works_main_about_works .bx-pagers123 a img{
+    width: 107px;
+    height: 76px;
+}
+.our_works_main_about_works_review{
+    margin: 20px auto 10px;
+}
+.our_works_main_img_works_part.active-pager .hidden-block{
+    display: block;
+}
+.our_team{
+    overflow: hidden;
+    height: 545px;
+    position: relative;
+    margin-top: -15px;
+    background: url(../images/our_team_bg.png) 100% 100%;
+}
+.our_works_main_about_works .bx-prev,
+.our_works_main_about_works .bx-prev:hover{
+    top: initial !important;
+    bottom: -85px;
+    left: 300px;
+    background: url("../images/our_work_nav.png") no-repeat;
+    width: 19px !important;
+    height: 31px !important;
+    background-position: 0 -31px;
+}
+.our_works_main_about_works .bx-next,
+.our_works_main_about_works .bx-next:hover{
+    top: initial !important;
+    bottom: -85px;
+    right: 300px;
+    background: url("../images/our_work_nav.png") no-repeat;
+    width: 19px !important;
+    height: 31px !important;
+}
+
+.our_team .bx-prev{
+    top: initial !important;
+    bottom: -97px;
+    left: 300px;
+    background: url("../images/our_work_nav.png") no-repeat;
+    background-position: 0 -31px;
+}
+.our_team .bx-next{
+    top: initial !important;
+    bottom: -97px;
+    right: 300px;
+    background: url("../images/our_work_nav.png") no-repeat;
+}
+.our_team .bx-prev:hover{
+    left: 300px;
+}
+.our_team .bx-next:hover{
+    right: 300px;
+}
+
+.our_review .bx-prev,
+.our_review .bx-prev:hover{
+    top: initial !important;
+    bottom: 57px;
+    left: 11px;
+    background: url("../images/our_work_nav.png") no-repeat;
+    width: 19px !important;
+    height: 31px !important;
+    background-position: 0 -31px;
+}
+.our_review .bx-next,
+.our_review .bx-next:hover{
+    top: initial !important;
+    bottom: 57px;
+    right: 11px;
+    background: url("../images/our_work_nav.png") no-repeat;
+    width: 19px !important;
+    height: 31px !important;
+    /*background-position: 0 31px;*/
+}
+
+
+.our_team .bx-controls{
+    width: 452px;
+    position: relative;
+    margin: 0 auto;
+}
+.content_service,
+.content_service_content{
+    overflow: hidden;
+}
+.our_review{
+    display: none;
+}
+.our_works_main_about_works_about_text_icons img{
+    margin: 0 auto;
+}

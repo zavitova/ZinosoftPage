@@ -1,0 +1,462 @@
+/* media header */
+@media screen and (max-width:1040px){
+    .content_service{
+    width: 100%;
+    }
+    .header {
+        width: 100%;
+    }
+    .header_menu{
+        width: 100%;
+    }
+    .header_main {
+        width: 100%;
+    }
+    .content_menu{
+        width: 100%;
+    }
+    .content_menu_main {
+        width:100%;
+    }
+    .form{
+        margin-top:50px;
+    }
+}
+@media screen and (max-width:810px){
+    .header_main_contact_left{
+        display:none;
+    }
+    .content_menu_menu{
+        display:none;
+    }
+    .content_menu{
+        background:#fff;
+    }
+    .content_menu_logo {
+        float: none;
+        margin: 0 auto;
+        width:110px;
+        padding-top:4px;
+    }
+    .js #menu {
+        display:none;
+    }
+
+    .js .slicknav_menu {
+        display:block;
+    }
+    #header_slicknav_menu {
+        float: left;
+    }
+    #header_slicknav_menu{
+        display: block;
+        width: 300px;
+    }
+}
+/* media header */
+
+/* zinosoft */
+@media screen and (max-width:1040px) {
+    .content {
+        padding: 0 0 855px;
+        width: 100%;
+    }
+
+    .content_about_zinosoft_main {
+        height: 1350px;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    .content_about_zinosoft {
+        height: 100%;
+        padding: 0 10px;
+    }
+
+    .content_about_zinosoft_part1 {
+        float: left;
+        width: 50%;
+        background-color: #e6e6e6;
+    }
+
+    .content_about_zinosoft_part2 {
+        float: right;
+        width: 50%;
+        background-color: #f4f4f4;
+    }
+
+    .content_about_zinosoft_part3 {
+        background-color: #e6e6e6;
+        float: right;
+        width: 50%;
+    }
+    .content_about_zinosoft_part4 {
+        float: left;
+        width: 50%;
+        background-color: #f4f4f4;
+    }
+
+    .content_about_zinosoft_part5 {
+        float: left;
+        width: 50%;
+        background-color: #e6e6e6;
+    }
+
+    .content_about_zinosoft_part6 {
+        float: left;
+        width: 50%;
+        background-color: #f4f4f4;
+    }
+}
+
+@media screen and (max-width:550px) {
+    .content {
+        padding: 0 0 855px;
+        width: 100%;
+    }
+    .content_about_zinosoft_main {
+        height: 2280px;
+        margin: 0 auto;
+        width: 100%;
+    }
+    .content_about_zinosoft {
+        height: 100%;
+        padding: 0 10px;
+    }
+
+    .content_about_zinosoft_part p {
+        font-family: Trebuchet MS;
+        font-size: 12px;
+        margin: 0 auto 20px;
+        text-align: center;
+        width: 300px;
+    }
+    .content_about_zinosoft_part{
+        height:1450px;
+    }
+    .content_about_zinosoft_part1 {
+        float: left;
+        width: 100%;
+        background-color: #e6e6e6;
+        margin-bottom: 0px;
+    }
+    .content_about_zinosoft ul li {
+        font-family: Trebuchet MS;
+        font-size: 14px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .content_about_zinosoft_part2 {
+        float: left;
+        width: 100%;
+        background-color: #f4f4f4;
+        margin-bottom: 0px;
+    }
+
+    .content_about_zinosoft_part3 {
+        float: left;
+        width: 100%;
+        background-color: #e6e6e6;
+        margin-bottom: 0px;
+    }
+
+    .content_about_zinosoft_part4 {
+        float: left;
+        width: 100%;
+        background-color: #f4f4f4;
+        margin-bottom: 0px;
+    }
+
+    .content_about_zinosoft_part5 {
+        float: left;
+        width: 100%;
+        background-color: #e6e6e6;
+        margin-bottom: 0px;
+    }
+
+    .content_about_zinosoft_part6 {
+        float: left;
+        width: 100%;
+        background-color: #f4f4f4;
+        margin-bottom: 0px;
+    }
+
+    .content_about_zinosoft p {
+        font-family: Trebuchet MS;
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+    .content_about_zinosoft_part3 ul li {
+        font-family: Trebuchet MS;
+        font-size: 12px;
+        list-style-type: circle;
+        font-weight: normal;
+    }
+    .content_about_zinosoft_part1 {
+        height:310px;
+    }
+    .content_about_zinosoft_part2 {
+        height:310px;
+    }
+    .content_about_zinosoft_part3 {
+        height:310px;
+    }
+    .content_about_zinosoft_part4 {
+        height:310px;
+    }
+    .content_about_zinosoft_part5 {
+        height:310px;
+    }
+    .content_about_zinosoft_part6 {
+        height:310px;
+    }
+}
+/* zinosoft */
+
+/* our team */
+@media screen and (max-width:530px){
+    .our_team{
+        width:100%;
+    }
+    .our_team .bx-wrapper {
+        max-width: 100%;
+        padding: 0 10px;
+    }
+    .our_team .social_networks_icons{
+        display:none;
+    }
+    .our_team_main_bxslider1_main h2 {
+        color: #fff;
+        font-family: Trebuchet MS;
+        font-size: 24px;
+        font-weight: bold;
+        padding-top: 18px;
+        text-align: center;
+    }
+    .our_team_main_bxslider1_main h3 {
+        color: #fff;
+        font-family: Trebuchet MS;
+        font-size: 13px;
+        font-weight: bold;
+        padding-top: 5px;
+        text-align: center;
+    }
+    .our_team_main_block_info {
+        margin-top: 30px;
+    }
+    .our_team_main_info_employee_foto {
+        float: left;
+        height: 150px;
+        margin-right: 8px;
+        width: 150px;
+    }
+    .lc-our_team_main_info_employee {
+        float: none;
+        height: 226px;
+        margin: 0 auto 50px;
+        width: 100%;
+    }
+    .our_team_main_info_employee_info {
+        float: left;
+        width: 62%;
+    }
+    .our_team_main_info_employee_info .our_team_main_info_employee_info_name {
+        color: #fff;
+        font-family: Trebuchet MS;
+        font-size: 14px;
+        font-weight: bold;
+        margin-bottom: 3px;
+        text-align: left;
+    }
+
+    .our_team_main_info_employee_info .our_team_main_info_employee_info_profession {
+        color: #b2b2b2;
+        font-family: Trebuchet MS;
+        font-size: 12px;
+        font-weight: bold;
+        margin-bottom: 13px;
+        text-align: left;
+    }
+
+    .our_team_main_info_employee_info p {
+        color: #fff;
+        font-family: Trebuchet MS;
+        font-size: 10px;
+        line-height: 16px;
+        text-align: left;
+    }
+    .our_team .bx-prev {
+        bottom:-37px;
+    }
+    .our_team .bx-next {
+        bottom:-37px;
+    }
+
+    .our_team {
+        height:630px !important;
+    }
+
+    .our_team .bx-wrapper {
+        height: 506px;
+        max-width: 100%;
+    }
+    .our_team .bx-viewport {
+        height: 565px;
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+    #bx-pager1 {
+        bottom: -5px;
+        position: relative;
+        text-align: center;
+    }
+    .our_team .bx-prev {
+        bottom: -87px;
+    }
+    .our_team .bx-next {
+        bottom: -87px;
+    }
+
+
+    .our_team_main_info_employee_skills {
+        float: none;
+        margin-top: -90px;
+        width: 100%;
+    }
+}
+@media screen and (max-width:480px) {
+
+    .our_team_main_info_employee_info {
+        float: left;
+        width: 30%;
+    }
+
+    .our_team_main_info_employee_skills ul {
+        padding-left: 0px;
+        width: 100%;
+    }
+    .our_team_main_info_employee_skills {
+        float: none;
+        margin-top: 0;
+    }
+    .our_team_main_info_employee_skills ul li {
+        color: #000;
+        font-family: Trebuchet MS;
+        font-size: 14px;
+        font-weight: bold;
+        height: 30px;
+        margin-bottom: 10px;
+        overflow: hidden;
+        text-align: left;
+        width: 100%;
+    }
+
+    .our_team_main_info_employee_skills_percent1 {
+        background-color: #fff;
+        height: 28px;
+        overflow: hidden;
+        width: 80%;
+    }
+
+    .our_team_main_info_employee_skills_percent2 {
+        background-color: #fff;
+        height: 28px;
+        overflow: hidden;
+        width: 85%;
+    }
+
+    .our_team_main_info_employee_skills_percent3 {
+        background-color: #fff;
+        height: 28px;
+        overflow: hidden;
+        width: 85%;
+    }
+    .our_team_main_info_employee_skills_percent4 {
+        background-color: #fff;
+        height: 28px;
+        overflow: hidden;
+        width: 78%;
+    }
+    .our_team_main_info_employee_skills_percent5 {
+        background-color: #fff;
+        height: 28px;
+        overflow: hidden;
+        width: 76%;
+    }
+    #bx-pager1 a {
+        height: 55px;
+        margin: 0;
+        position: relative;
+        width: 55px;
+    }
+    #bx-pager1 a img {
+        height: 55px;
+        width: 55px;
+    }
+
+    .our_team .bx-next {
+        bottom: -70px;
+    }
+    .our_team .bx-prev {
+        bottom: -70px;
+    }
+
+    .our_team #bx-pager1 {
+        bottom: -95px;
+        position: relative;
+        text-align: center;
+    }
+    .our_team {
+        height: 680px !important;
+    }
+    .our_team .bx-wrapper .bx-prev {
+        background: rgba(0, 0, 0, 0) url("../images/controls.png") no-repeat scroll 0 -19px;
+        left: 8%;
+    }
+    .our_team .bx-controls {
+        width: 100%;
+    }
+    .our_team .bx-wrapper .bx-next {
+        background: rgba(0, 0, 0, 0) url("../images/controls.png") no-repeat scroll 0 0;
+        left: 90%;
+    }
+    .our_team .bx-wrapper .bx-prev:hover {
+        background: rgba(0, 0, 0, 0) url("../images/controls.png") no-repeat scroll 0 -19px;
+        left: 8%;
+    }
+    .our_team .bx-controls-direction{
+        width:100%;
+    }
+    .our_team .bx-wrapper .bx-next:hover {
+        background: rgba(0, 0, 0, 0) url("../images/controls.png") no-repeat scroll 0 0;
+        left: 90%;
+    }
+}
+@media screen and (max-width:400px){
+.our_team .bx-wrapper .bx-next {
+    background: rgba(0, 0, 0, 0) url("../images/controls.png") no-repeat scroll 0 0;
+    left: 99%;
+}
+.our_team .bx-wrapper .bx-prev {
+    background: rgba(0, 0, 0, 0) url("../images/controls.png") no-repeat scroll 0 -19px;
+    left: -2%;
+}
+    .our_team .bx-wrapper .bx-next:hover {
+        background: rgba(0, 0, 0, 0) url("../images/controls.png") no-repeat scroll 0 0;
+        left: 99%;
+    }
+    .our_team .bx-wrapper .bx-prev:hover {
+        background: rgba(0, 0, 0, 0) url("../images/controls.png") no-repeat scroll 0 -19px;
+        left: -2%;
+    }
+
+    .our_team_main_info_employee_skills {
+        float: none;
+        margin-top: -15px;
+        width: 100%;
+    }
+}
+
+/* our team */

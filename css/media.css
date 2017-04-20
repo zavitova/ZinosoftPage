@@ -1,0 +1,280 @@
+@media screen and (max-width:1040px){
+    .footer_main_contact_form_left{
+        position: relative;
+        top: 285px;
+    }
+    .footer_main_contact_form_right{
+        position: relative;
+        top: -379px;
+    }
+    .footer_main_copyright {
+        padding: 45px 0;
+    }
+    .our_works_main_about_works_about{
+        margin: 0 0 15px 0;
+    }
+    .our_works_main_about_works .bx-prev, .our_works_main_about_works .bx-prev:hover {
+        left: 28%;
+    }
+    .our_works_main_about_works .bx-next, .our_works_main_about_works .bx-next:hover {
+        right: 28%;
+    }
+    .our_works_main_about_works_about_img{
+        width: 50%;
+    }
+    .our_works_main_about_works_about_text{
+        width: 48%;
+    }
+    .our_works_main_about_works_bottom_line_img ul li{
+        width: 33.3333%;
+        padding: 0;
+    }
+    .our_works_main_about_works_bottom_line_img ul li img{
+        width: 100%;
+    }
+    .our_works{
+        padding: 0 10px;
+    }
+    .our_works_main{
+        width: 100%;
+    }
+    .hidden-block{
+        width: 100%;
+    }
+    .bx-pagers123.our_works_main_img_works a{
+        width: 50% !important;
+    }
+    .our_team_main_bxslider1_main{
+        width: 100%;
+    }
+    .wrapper{
+        width: 100%;
+    }
+    .footer_main_map{
+        width: 98%;
+        box-sizing: border-box;
+        margin: 30px auto 0;
+    }
+    .footer_main{
+        width: 100%;
+    }
+    .footer_main_contact_form_left,
+    .footer_main_contact_form_right{
+        width: 100%;
+        float: none;
+    }
+    .footer_main_contact_form_left input{
+        width: 100%;
+    }
+    .footer_main_contact_form_left textarea{
+        width: 100%;
+    }
+    .footer_main_contact_form_left form a{
+        width: 100%;
+        margin-left: 0;
+    }
+    .footer_main_contact_form_right_adress p{
+        width: 100%;
+    }
+    .footer {
+        width: 100%;
+        height: 1210px;
+    }
+    .lc-our_team_main_info_employee {
+        width: 470px;
+        float: none;
+        height: 226px;
+        margin: 0 auto 50px;
+    }
+    .our_team_main_info_employee_skills{
+        width: 100%;
+        float: none;
+    }
+    .our_team {
+        height: 800px;
+    }
+}
+@media screen and (max-width:800px){
+    .content_menu{
+        height: 33px !important;
+    }
+    .content_menu_logo{
+        width: auto;
+        text-align: center;
+    }
+    .content_menu_logo img{
+        height: 26px;
+    }
+}
+@media screen and (max-width:720px){
+    .our_works_main_about_works_bottom_line_img{
+        display: none;
+    }
+    .our_works_main_about_works_review_comments {
+        float: left;
+        width: 74%;
+    }
+}
+@media screen and (max-width:650px){
+    .footer_main_contact_form_left {
+        top: 305px;
+    }
+    .slider_main_bxslider {
+        height: 279px;
+    }
+    .slider_main_bxslider_rigth{
+        text-align: left;
+        padding-top: 105px;
+        width: 150px;
+        right: 10px;
+    }
+    .slider_main {
+        height: 230px;
+        overflow: hidden;
+    }
+    .slider_main_bxslider h1{
+        font-size: 17px;
+        margin: 0;
+    }
+    .slider_main_bxslider p{
+        font-size: 7px;
+        line-height: 10px;
+        width: auto;
+    }
+    .slider_main_bxslider .button{
+        font-size: 10px;
+        white-space: nowrap;
+        margin: 0 0 0 -30px;
+        padding: 10px 40px;
+    }
+    .slider_main_bxslider_rigth ul{
+        display: none;
+    }
+    .our_works_main_about_works_about_img{
+        height: 220px !important;
+        overflow: hidden;
+    }
+    .our_works_main_about_works_about_img img{
+        width: 100%;
+        height: auto;
+    }
+    .our_works_main_about_works_about_text_icons_part{
+        float: none;
+        display: inline-block;
+    }
+    .our_works_main_about_works_review{
+        width: 100%;
+    }
+    .our_works_main_about_works_about_text_icons{
+
+        text-align: center;
+    }
+    .our_works_main_about_works .bx-prev, .our_works_main_about_works .bx-prev:hover {
+        left: 22%;
+    }
+    .our_works_main_about_works .bx-next, .our_works_main_about_works .bx-next:hover {
+        right: 22%;
+    }
+    .our_works_main_about_works_about_text h3{
+        text-align: left;
+    }
+    .bx-pagers123.our_works_main_img_works a{
+        width: 100% !important;
+    }
+    .our_works_main_about_works_about_img{
+        width: 100%;
+        height: auto;
+    }
+    .our_works_main_about_works_about_text{
+        width: 100%;
+        padding: 15px 0 0 0;
+    }
+    #header_slicknav_menu{
+        width: auto;
+        padding: 0 0 0 5px;
+    }
+}
+@media screen and (max-width:600px){
+    .our_works_main_about_works_review {
+        min-height: 130px;
+        height: auto;
+    }
+    .our_works_main_about_works .bx-prev, .our_works_main_about_works .bx-prev:hover {
+        left: 10%;
+    }
+    .our_works_main_about_works .bx-next, .our_works_main_about_works .bx-next:hover {
+        right: 10%;
+    }
+    .footer_main_contact_form_right_adress_text {
+        width: 272px;
+    }
+}
+@media screen and (max-width:530px){
+    .slider_main_bxslider {
+        height: 238px;
+    }
+    .our_works_main_about_works_review_comments p{
+        max-height: 75px;
+        overflow: hidden;
+        padding: 0 10px 0 0 !important;
+    }
+    .our_works_main_about_works_review_comments {
+        width: 68%;
+        height: 110px;
+        overflow: hidden;
+    }
+    .our_works_main_about_works_review_comments .name,
+    .our_works_main_about_works_review_comments .data{
+        font-size: 8px;
+    }
+}
+@media screen and (max-width:450px){
+    .slider_main_bxslider {
+        height: 230px;
+        background-position: 0 0;
+    }
+    .our_works_main_about_works_review_img{
+        padding: 5px;
+    }
+    .our_works_main_about_works_review_comments p{
+        font-size: 10px;
+        max-height: 62px;
+        line-height: 12px;
+    }
+    .our_works_main_about_works_review_comments {
+        height: 93px;
+        width: 65%;
+    }
+    .our_works_main_about_works_review {
+        min-height: 108px;
+    }
+
+}
+@media screen and (max-width:400px){
+    .slider_main_bxslider {
+        background-position: 0 0;
+    }
+    .our_works_main_about_works .bx-prev, .our_works_main_about_works .bx-prev:hover {
+        left: 3%;
+    }
+    .our_works_main_about_works .bx-next, .our_works_main_about_works .bx-next:hover {
+        right: 3%;
+    }
+    .footer_main_contact_form_right_telephone p {
+        font-size: 25px;
+    }
+    .footer_main_contact_form_right_mail_text p {
+        font-size: 25px;
+    }
+    .footer {
+        height: 1190px;
+    }
+    .footer_main_contact_form_right_adress_text {
+        width: 67%;
+    }
+    .footer_main_contact_form_right h3 {
+        margin-top: 20px!important;
+    }
+}
+  }
+}
